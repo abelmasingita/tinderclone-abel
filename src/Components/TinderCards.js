@@ -12,6 +12,22 @@ const TinderCards = () => {
             name: 'Masingita Hlongwani',
             url: 'https://specials-images.forbesimg.com/imageserve/5f469ea85cc82fc8d6083f05/960x0.jpg?fit=scale'
         },
+        {
+            name: 'Abel Masinita',
+            url: 'https://pyxis.nymag.com/v1/imgs/e0e/11b/93a73ed12f25f2fdcc4f5473fc9460a2ff-elon-musk.rsquare.w1200.jpg'
+        },
+        {
+            name: 'Masingita Hlongwani',
+            url: 'https://specials-images.forbesimg.com/imageserve/5f469ea85cc82fc8d6083f05/960x0.jpg?fit=scale'
+        },
+        {
+            name: 'Abel Masinita',
+            url: 'https://pyxis.nymag.com/v1/imgs/e0e/11b/93a73ed12f25f2fdcc4f5473fc9460a2ff-elon-musk.rsquare.w1200.jpg'
+        },
+        {
+            name: 'Masingita Hlongwani',
+            url: 'https://specials-images.forbesimg.com/imageserve/5f469ea85cc82fc8d6083f05/960x0.jpg?fit=scale'
+        },
     ]) 
 
     const swipped = (direction,nametodelete)=> {
